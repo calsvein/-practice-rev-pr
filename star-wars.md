@@ -4,23 +4,23 @@ Star Wars pilots
 ## Most accomplished
 
 Below we look at which 5 characters from Star Wars are the most
-accomplished pilot (flew the fewest number of starships):
+accomplished pilot (flew the greatest number of starships):
 
-| Character      | Number of Starships piloted |
-| :------------- | --------------------------: |
-| R2-D2          |                           7 |
-| C-3PO          |                           6 |
-| Obi-Wan Kenobi |                           6 |
-| Chewbacca      |                           5 |
-| Leia Organa    |                           5 |
-| Luke Skywalker |                           5 |
-| Palpatine      |                           5 |
-| Yoda           |                           5 |
-| Darth Vader    |                           4 |
-| Han Solo       |                           4 |
+| Character         | Number of Starships piloted |
+| :---------------- | --------------------------: |
+| Obi-Wan Kenobi    |                           5 |
+| Anakin Skywalker  |                           3 |
+| Padmé Amidala     |                           3 |
+| Chewbacca         |                           2 |
+| Han Solo          |                           2 |
+| Luke Skywalker    |                           2 |
+| Arvel Crynyd      |                           1 |
+| Biggs Darklighter |                           1 |
+| Boba Fett         |                           1 |
+| Darth Maul        |                           1 |
 
-By far, the most accomplished pilot of all is R2-D2. He is shown below
-piloting a starship.
+By far, the most accomplished pilot of all is Obi-Wan Kenobi. He is
+shown below piloting a starship.
 
 <div class="figure">
 
@@ -34,4 +34,4 @@ Most accomplished Star Wars pilot.
 
 </div>
 
-*Source: <https://starwarz.com>*
+*Source: 20th Century Fox*
